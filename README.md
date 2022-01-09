@@ -1,2 +1,3 @@
-# causal_inference_blog
-Supporting Tools for Causal Inference
+# balance_eval
+
+Evaluating Covariates Balance. 
